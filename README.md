@@ -8,10 +8,10 @@ Project Stages:
 5. Project Presentation
 
 Repository Contents:
-1. Project Code with comments (.ipynb)
-2. Project Code with comments (.html)
-3. Techincal Report of Project Code (.ipynb)
-4. Technical Report of Project Code (.html)
+1. Project Code with comments (file name: Petrelli_Henry_Petrelli_Henry_CIND820_Project_Code.ipynb)
+2. Project Code with comments (file name: Petrelli_Henry_Petrelli_Henry_CIND820_Project_Code.html)
+3. Techincal Report of Project Code (file name: Petrelli_Henry_CIND820_Project_Technical_Report.ipynb)
+4. Technical Report of Project Code (file name: Petrelli_Henry_CIND820_Project_Technical_Report.html)
 5. Link to the Chicago Crimes 2001 - Present Dataset (see below)
 6. Link to the FBI National Crime Trends (2005 - 2024) dataset (see below)
 
